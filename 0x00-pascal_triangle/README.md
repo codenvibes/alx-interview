@@ -60,11 +60,10 @@ To successfully complete this project, you should revise the following Python co
     - Nested loops may be necessary for generating each row and calculating the values of Pascal’s Triangle.
 4. **Conditional Statements:**
     - Apply `if`, `elif`, and `else` conditions to implement logic based on the position within Pascal’s Triangle (e.g., the edges of the triangle always being 1).
-Recursion (Optional):
-
-While not strictly necessary, understanding recursion can provide an alternative approach to generating Pascal’s Triangle.
-Recognize base cases and recursive cases for a function that generates the triangle’s rows.
-Arithmetic Operations:
+5. **Recursion (Optional):**
+    - While not strictly necessary, understanding recursion can provide an alternative approach to generating Pascal’s Triangle.
+    - Recognize base cases and recursive cases for a function that generates the triangle’s rows.
+6. **Arithmetic Operations:**
 
 Perform addition, a fundamental operation for calculating each element of Pascal’s Triangle as the sum of the two elements directly above it.
 Indexing and Slicing:
