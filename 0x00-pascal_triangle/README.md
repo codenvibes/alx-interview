@@ -41,6 +41,7 @@
 <br>
 
 ## Additional Resources
+- [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=1qw5ITr3k9E)
 
 <!-- <br>
 
