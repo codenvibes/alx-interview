@@ -1,5 +1,5 @@
 <h1 align="center"><b>0x00. PASCAL'S TRIANGLE</b></h1>
-<div align="center"><code></code> <code></code></div>
+<div align="center"><code>Algorithm</code> <code>Python</code></div>
 
 <!-- <br>
 
