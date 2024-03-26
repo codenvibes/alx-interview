@@ -23,7 +23,7 @@
 
 
 <details>
-<summary><b><a href=" ">Pascal’s Triangle - Numberphile</a></b></summary><br>
+<summary><b><a href="https://www.youtube.com/watch?feature=shared&v=0iMtlus-afo">Pascal’s Triangle - Numberphile</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -31,7 +31,7 @@
 
 
 <details>
-<summary><b><a href=" ">What are Python Algorithms</a></b></summary><br>
+<summary><b><a href="https://builtin.com/data-science/python-algorithms">What are Python Algorithms</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
