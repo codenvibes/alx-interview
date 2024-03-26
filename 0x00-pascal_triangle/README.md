@@ -64,11 +64,9 @@ To successfully complete this project, you should revise the following Python co
     - While not strictly necessary, understanding recursion can provide an alternative approach to generating Pascal’s Triangle.
     - Recognize base cases and recursive cases for a function that generates the triangle’s rows.
 6. **Arithmetic Operations:**
-
-Perform addition, a fundamental operation for calculating each element of Pascal’s Triangle as the sum of the two elements directly above it.
-Indexing and Slicing:
-
-Access elements and slices of lists, crucial for identifying and summing the correct elements when constructing each row of the triangle.
+    - Perform addition, a fundamental operation for calculating each element of Pascal’s Triangle as the sum of the two elements directly above it.
+7. **Indexing and Slicing:**
+    - Access elements and slices of lists, crucial for identifying and summing the correct elements when constructing each row of the triangle.
 Memory Management:
 
 Be mindful of how lists are stored and copied, especially when creating new rows based on the values of the previous row.
