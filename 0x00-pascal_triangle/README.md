@@ -55,10 +55,9 @@ To successfully complete this project, you should revise the following Python co
 2. **Functions:**
     - Know how to define and call functions.
     - Pass parameters and return values, particularly how to return a list of lists representing Pascal’s Triangle.
-Loops:
-
-Use for and while loops to iterate through sequences.
-Nested loops may be necessary for generating each row and calculating the values of Pascal’s Triangle.
+3. **Loops:**
+    - Use `for` and `while` loops to iterate through sequences.
+    - Nested loops may be necessary for generating each row and calculating the values of Pascal’s Triangle.
 Conditional Statements:
 
 Apply if, elif, and else conditions to implement logic based on the position within Pascal’s Triangle (e.g., the edges of the triangle always being 1).
