@@ -15,7 +15,7 @@
 
 ## Resources
 <details>
-<summary><b><a href=" ">What is Pascal’s triangle</a></b></summary><br>
+<summary><b><a href="https://www.cuemath.com/algebra/pascals-triangle/">What is Pascal’s triangle</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
