@@ -71,10 +71,10 @@ To successfully complete this project, you should revise the following Python co
     - Be mindful of how lists are stored and copied, especially when creating new rows based on the values of the previous row.
 9. **Error and Exception Handling (Optional):**
     - Use try-except blocks as needed to handle potential errors, such as invalid input types or values.
-Efficiency and Optimization:
-
-Consider the time and space complexity of different approaches to generating Pascal’s Triangle.
-Evaluate and apply optimizations to improve the performance of the solution.
+10. **Efficiency and Optimization:**
+    - Consider the time and space complexity of different approaches to generating Pascal’s Triangle.
+    - Evaluate and apply optimizations to improve the performance of the solution.
+    
 By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.
 
 
