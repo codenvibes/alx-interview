@@ -12,22 +12,13 @@ def pascal_triangle(n):
 
     triangle = [[1]]  # Initialize the first row
 
-    for i in range(1, n):
+    for _ in range(1, n):
         row = [1]  # Start each row with a 1
-        for j in range(1, i):
+        for j in range(1, _):
             # Each number in the row is the sum of the two
             # numbers directly above it
-            row.append(triangle[i-1][j-1] + triangle[i-1][j])
+            row.append(triangle[_-1][j-1] + triangle[_-1][j])
         row.append(1)  # End each row with a 1
         triangle.append(row)
 
     return triangle
-
-
-# Test the function
-if __name__ == "__main__":
-    def print_triangle(triangle):
-        for row in triangle:
-            print("[{}]".format(",".join([str(x) for x in row])))
-
-    print_triangle(pascal_triangle(5))
