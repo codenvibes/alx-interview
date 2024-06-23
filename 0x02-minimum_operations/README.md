@@ -49,6 +49,7 @@
 
 <p>By studying these concepts and utilizing the resources provided, you will be equipped to tackle the “Minimum Operations” problem effectively, applying both mathematical reasoning and programming skills to find the most efficient solution.</p>
 
+<br>
 
 ## Additional Resources
 <ul>
