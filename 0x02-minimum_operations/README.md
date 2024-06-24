@@ -19,7 +19,7 @@
 
 <ul>
 <li>Familiarity with dynamic programming can help in breaking down the problem into simpler subproblems and building up the solution.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/l3JYgicNQw2Ue1Kg9jV80Q" title="Dynamic Programming (GeeksforGeeks)" target="_blank">Dynamic Programming (GeeksforGeeks)</a></li>
+<li><a href="https://www.geeksforgeeks.org/dynamic-programming/" title="Dynamic Programming (GeeksforGeeks)" target="_blank">Dynamic Programming (GeeksforGeeks)</a></li>
 </ul></li>
 <li><p><strong>Prime Factorization</strong>:</p>
 
