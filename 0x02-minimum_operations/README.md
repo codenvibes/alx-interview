@@ -31,7 +31,7 @@
 
 <ul>
 <li>Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/98ZF5bRckUKror6pGJQlHQ" title="How to optimize Python code" target="_blank">How to optimize Python code</a></li>
+<li><a href="https://stackify.com/how-to-optimize-python-code/" title="How to optimize Python code" target="_blank">How to optimize Python code</a></li>
 </ul></li>
 <li><p><strong>Greedy Algorithms</strong>:</p>
 
