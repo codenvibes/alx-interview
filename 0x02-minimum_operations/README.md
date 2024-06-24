@@ -43,7 +43,7 @@
 
 <ul>
 <li>Proficiency in Python, including loops, conditionals, and functions, is necessary to implement the solution.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/ao3SJVl4yY1SfugfVa3anw" title="Python Functions (Python Official Documentation)" target="_blank">Python Functions (Python Official Documentation)</a></li>
+<li><a href="https://docs.python.org/3/tutorial/controlflow.html#defining-functions" title="Python Functions (Python Official Documentation)" target="_blank">Python Functions (Python Official Documentation)</a></li>
 </ul></li>
 </ol>
 
