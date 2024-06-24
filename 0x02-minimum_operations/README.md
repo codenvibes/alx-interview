@@ -25,7 +25,7 @@
 
 <ul>
 <li>Understanding how to perform prime factorization is crucial since the problem can be reduced to finding the sum of the prime factors of the target number <code>n</code>.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/cFcADpVYRCl5pdut-Lemmg" title="Prime Factorization (Khan Academy)" target="_blank">Prime Factorization (Khan Academy)</a></li>
+<li><a href="https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-prime-factorization-prealg/v/prime-factorization" title="Prime Factorization (Khan Academy)" target="_blank">Prime Factorization (Khan Academy)</a></li>
 </ul></li>
 <li><p><strong>Code Optimization</strong>:</p>
 
