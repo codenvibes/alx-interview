@@ -37,7 +37,7 @@
 
 <ul>
 <li>The problem can also be approached with greedy algorithms, choosing the best option at each step.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/k6-mba0b4nayJi0VqYhKjQ" title="Greedy Algorithms (GeeksforGeeks)" target="_blank">Greedy Algorithms (GeeksforGeeks)</a></li>
+<li><a href="https://www.geeksforgeeks.org/greedy-algorithms/" title="Greedy Algorithms (GeeksforGeeks)" target="_blank">Greedy Algorithms (GeeksforGeeks)</a></li>
 </ul></li>
 <li><p><strong>Basic Python Programming</strong>:</p>
 
