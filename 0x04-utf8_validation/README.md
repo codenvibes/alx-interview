@@ -43,7 +43,7 @@
 
 <ul>
 <li>Iterating through lists, accessing list elements, and understanding list comprehensions.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/TaN91MgmOL80GeOGvmldIw" title="Python Lists" target="_blank">Python Lists</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html#more-on-lists" title="Python Lists" target="_blank">Python Lists</a></li>
 </ul></li>
 <li><p><strong>Boolean Logic</strong>:</p>
 
