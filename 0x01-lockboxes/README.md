@@ -56,7 +56,7 @@ By reviewing these concepts and utilizing these resources, you will be well-equi
 
 ## Additional Resources
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/TJ0FJhWeEGolIqMpwBn7Pg" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=V8DGdPkBBxg" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
 </ul>
 
 
