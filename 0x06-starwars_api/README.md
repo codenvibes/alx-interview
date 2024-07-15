@@ -42,7 +42,7 @@
 
 <ul>
 <li>Using the <code>process.argv</code> array to access command-line arguments passed to a Node.js script.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/oWBOWJZLF_D9GfOydPz6Kg" title="How to Parse Command Line Arguments in Node.js" target="_blank">How to Parse Command Line Arguments in Node.js</a></li>
+<li><a href="https://tecadmin.net/how-to-parse-command-line-arguments-in-nodejs/" title="How to Parse Command Line Arguments in Node.js" target="_blank">How to Parse Command Line Arguments in Node.js</a></li>
 </ul></li>
 <li><p><strong>Array Manipulation and Iteration</strong>:</p>
 
