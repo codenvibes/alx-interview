@@ -39,7 +39,7 @@ For this project, you will need a solid understanding of several key concepts in
 <li><p><strong>Queue and Stack</strong>:</p>
 <ul>
 <li>Knowing how to use queues and stacks is crucial if implementing a breadth-first search (BFS) or depth-first search (DFS) algorithm to traverse through the keys and boxes.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/CQLm4RJrdwyo2DAcNCtwIA" target="_blank" title="Python Queue and Stack (GeeksforGeeks)">Python Queue and Stack (GeeksforGeeks)</a></li>
+<li><a href="https://www.geeksforgeeks.org/queue-in-python/" target="_blank" title="Python Queue and Stack (GeeksforGeeks)">Python Queue and Stack (GeeksforGeeks)</a></li>
 </ul></li>
 <li><p><strong>Set Operations</strong>:</p>
 <ul>
