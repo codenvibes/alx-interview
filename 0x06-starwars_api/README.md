@@ -36,7 +36,7 @@
 <ul>
 <li>Managing asynchronous operations with callbacks, promises, and async/await syntax.</li>
 <li>Handling API response data asynchronously.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/tdKMGJrRstCkXSReNfRFpQ" title="Asynchronous Programming in JavaScript" target="_blank">Asynchronous Programming in JavaScript</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" title="Asynchronous Programming in JavaScript" target="_blank">Asynchronous Programming in JavaScript</a></li>
 </ul></li>
 <li><p><strong>Command Line Arguments in Node.js</strong>:</p>
 
