@@ -54,7 +54,7 @@ Here’s a list of concepts and resources that you might find useful:</p>
 
 <ul>
 <li>Handling possible exceptions that may arise during file reading and data processing.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/OA2PlryrYA2gyCCKIsdgUw" title="Python Exceptions" target="_blank">Python Exceptions</a></li>
+<li><a href="https://docs.python.org/3/tutorial/errors.html" title="Python Exceptions" target="_blank">Python Exceptions</a></li>
 </ul></li>
 </ol>
 
