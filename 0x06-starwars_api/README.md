@@ -59,7 +59,7 @@
 
 ## Additional Resources
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/du6hlPQm6qi4A7eEursNhQ" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=bmqZ5AhNr3g" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
 </ul>
 
 
