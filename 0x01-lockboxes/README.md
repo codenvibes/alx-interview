@@ -24,7 +24,7 @@ For this project, you will need a solid understanding of several key concepts in
 <li><p><strong>Graph Theory Basics</strong>:</p>
 <ul>
 <li>Although not explicitly required, knowledge of graph theory (especially concepts related to traversal algorithms like Depth-First Search or Breadth-First Search) can be very helpful in solving this problem, as the boxes and keys can be thought of as nodes and edges in a graph.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/eVcYI8g-6nF0Na46xnRdhw" target="_blank" title="Graph Theory (Khan Academy)">Graph Theory (Khan Academy)</a></li>
+<li><a href="https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs" target="_blank" title="Graph Theory (Khan Academy)">Graph Theory (Khan Academy)</a></li>
 </ul></li>
 <li><p><strong>Algorithmic Complexity</strong>:</p>
 <ul>
