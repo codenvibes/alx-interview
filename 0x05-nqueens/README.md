@@ -23,7 +23,7 @@ To successfully complete this project, you will need to understand several key c
 
 <ul>
 <li>Understanding how backtracking algorithms work to explore all potential solutions to a problem and backtrack when a solution cannot be completed.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/Gbaz9HkwvR9FX4zjBt9dSw" title="Backtracking Introduction" target="_blank">Backtracking Introduction</a></li>
+<li><a href="https://www.geeksforgeeks.org/introduction-to-backtracking-2/" title="Backtracking Introduction" target="_blank">Backtracking Introduction</a></li>
 </ul></li>
 <li><p><strong>Recursion</strong>:</p>
 
