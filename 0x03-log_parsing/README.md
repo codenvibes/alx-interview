@@ -48,7 +48,7 @@ Here’s a list of concepts and resources that you might find useful:</p>
 
 <ul>
 <li>Using dictionaries to count occurrences of status codes and accumulate file sizes.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/JM-RpavKkb8yanxWEnNYJw" title="Python Dictionaries" target="_blank">Python Dictionaries</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html#dictionaries" title="Python Dictionaries" target="_blank">Python Dictionaries</a></li>
 </ul></li>
 <li><p><strong>Exception Handling</strong>:</p>
 
