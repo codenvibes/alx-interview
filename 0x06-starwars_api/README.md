@@ -22,7 +22,7 @@
 
 <ul>
 <li>Understanding how to make HTTP requests to external services using the <code>request</code> module or alternatives like <code>fetch</code> in Node.js.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/iRse23lnV4gAsD9JJTJMMQ" title="A Complete Guide to Making HTTP Requests in Node.js" target="_blank">A Complete Guide to Making HTTP Requests in Node.js</a></li>
+<li><a href="https://www.memberstack.com/blog/node-http-request" title="A Complete Guide to Making HTTP Requests in Node.js" target="_blank">A Complete Guide to Making HTTP Requests in Node.js</a></li>
 </ul></li>
 <li><p><strong>Working with APIs</strong>:</p>
 
