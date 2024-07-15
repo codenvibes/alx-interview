@@ -29,7 +29,7 @@
 <ul>
 <li>Understanding the basics of RESTful APIs and how to interact with them.</li>
 <li>Parsing JSON data returned by APIs.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/KyGS_uB68mLaP5irrH8JVA" title="Working with APIs in JavaScript" target="_blank">Working with APIs in JavaScript</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction" title="Working with APIs in JavaScript" target="_blank">Working with APIs in JavaScript</a></li>
 </ul></li>
 <li><p><strong>Asynchronous Programming</strong>:</p>
 
