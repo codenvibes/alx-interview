@@ -8,6 +8,59 @@
 
 
 <!--==================================================-->
+
+<br>
+
+<p>For the “0x03. Log Parsing” project, you will need to apply your knowledge of Python programming, focusing on parsing and processing data streams in real-time. 
+This project involves reading from standard input (stdin), handling data in a specific format, and performing calculations based on the input data. 
+Here’s a list of concepts and resources that you might find useful:</p>
+
+<br>
+
+<h3>Concepts Needed:</h3>
+
+<ol>
+<li><p><strong>File I/O in Python</strong>:</p>
+
+<ul>
+<li>Understand how to read from <code>sys.stdin</code> line by line.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/f7U2MDsBT_rd9AfUUaqVnQ" title="Python Input and Output" target="_blank">Python Input and Output</a></li>
+</ul></li>
+<li><p><strong>Signal Handling in Python</strong>:</p>
+
+<ul>
+<li>Handling keyboard interruption (CTRL + C) using signal handling in Python.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/1nDqPJe80rSD-NMulzjJBw" title="Python Signal Handling" target="_blank">Python Signal Handling</a></li>
+</ul></li>
+<li><p><strong>Data Processing</strong>:</p>
+
+<ul>
+<li>Parsing strings to extract specific data points.</li>
+<li>Aggregating data to compute summaries.</li>
+</ul></li>
+<li><p><strong>Regular Expressions</strong>:</p>
+
+<ul>
+<li>Using regular expressions to validate the format of each line.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/ZsD-YLisfaHFeMT_sZxX1Q" title="Python Regular Expressions" target="_blank">Python Regular Expressions</a></li>
+</ul></li>
+<li><p><strong>Dictionaries in Python</strong>:</p>
+
+<ul>
+<li>Using dictionaries to count occurrences of status codes and accumulate file sizes.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/JM-RpavKkb8yanxWEnNYJw" title="Python Dictionaries" target="_blank">Python Dictionaries</a></li>
+</ul></li>
+<li><p><strong>Exception Handling</strong>:</p>
+
+<ul>
+<li>Handling possible exceptions that may arise during file reading and data processing.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/OA2PlryrYA2gyCCKIsdgUw" title="Python Exceptions" target="_blank">Python Exceptions</a></li>
+</ul></li>
+</ol>
+
+<p>By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.</p>
+
+
 <br>
 
 ## Additional Resources
