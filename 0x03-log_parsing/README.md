@@ -42,7 +42,7 @@ Here’s a list of concepts and resources that you might find useful:</p>
 
 <ul>
 <li>Using regular expressions to validate the format of each line.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/ZsD-YLisfaHFeMT_sZxX1Q" title="Python Regular Expressions" target="_blank">Python Regular Expressions</a></li>
+<li><a href="https://docs.python.org/3/library/re.html" title="Python Regular Expressions" target="_blank">Python Regular Expressions</a></li>
 </ul></li>
 <li><p><strong>Dictionaries in Python</strong>:</p>
 
