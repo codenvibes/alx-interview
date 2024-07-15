@@ -29,7 +29,7 @@
 <ul>
 <li>Familiarity with the UTF-8 encoding rules, including how characters are encoded into one or more bytes.</li>
 <li>Understanding the patterns that represent a valid UTF-8 encoded character.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/oqFi6P1hNvp9aSuNv---IQ" title="UTF-8 Wikipedia" target="_blank">UTF-8 Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UTF-8" title="UTF-8 Wikipedia" target="_blank">UTF-8 Wikipedia</a></li>
 <li><a href="https://intranet.alxswe.com/rltoken/d--jVK8sBSlhkosu7pFzdw" title="Characters, Symbols, and the Unicode Miracle" target="_blank">Characters, Symbols, and the Unicode Miracle</a></li>
 <li><a href="https://intranet.alxswe.com/rltoken/9EwaXVds22dSK3IvF5nNCA" title="The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets" target="_blank">The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets</a></li>
 </ul></li>
