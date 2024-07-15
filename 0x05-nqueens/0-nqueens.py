@@ -12,6 +12,7 @@ Usage:
 Arguments:
   N - The size of the chessboard (must be a number greater than or equal to4)
 """
+import sys
 
 
 def is_valid_position(board, row, col):
