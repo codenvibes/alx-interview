@@ -22,7 +22,7 @@
 
 <ul>
 <li>Understanding how to manipulate bits in Python, including operations like AND (<code>&amp;</code>), OR (<code>|</code>), XOR (<code>^</code>), NOT (<code>~</code>), shifts (<code>&lt;&lt;</code>, <code>&gt;&gt;</code>).</li>
-<li><a href="https://intranet.alxswe.com/rltoken/BslyYNZlXdyxW3_b0WNOcg" title="Python Bitwise Operators" target="_blank">Python Bitwise Operators</a></li>
+<li><a href="https://wiki.python.org/moin/BitwiseOperators" title="Python Bitwise Operators" target="_blank">Python Bitwise Operators</a></li>
 </ul></li>
 <li><p><strong>UTF-8 Encoding Scheme</strong>:</p>
 
