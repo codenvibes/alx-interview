@@ -29,7 +29,7 @@ For this project, you will need a solid understanding of several key concepts in
 <li><p><strong>Algorithmic Complexity</strong>:</p>
 <ul>
 <li>Understanding the time and space complexity of your solution is important, as it can help in writing more efficient algorithms.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/01qym1qAJUkLrb47PvqnKg" target="_blank" title="Big O Notation (GeeksforGeeks)">Big O Notation (GeeksforGeeks)</a></li>
+<li><a href="https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/g" target="_blank" title="Big O Notation (GeeksforGeeks)">Big O Notation (GeeksforGeeks)</a></li>
 </ul></li>
 <li><p><strong>Recursion</strong>:</p>
 <ul>
