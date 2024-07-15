@@ -8,6 +8,53 @@
 
 
 <!--==================================================-->
+
+<br>
+
+<p>The “0. Star Wars Characters” project requires you to interact with an external API to fetch and display information about Star Wars characters based on the movie ID provided as an argument. To successfully complete this project, you need to be familiar with several key concepts related to web programming, API interaction, and asynchronous programming in JavaScript.</p>
+
+<br>
+
+<h3>Concepts Needed:</h3>
+
+<ol>
+<li><p><strong>HTTP Requests in JavaScript</strong>:</p>
+
+<ul>
+<li>Understanding how to make HTTP requests to external services using the <code>request</code> module or alternatives like <code>fetch</code> in Node.js.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/iRse23lnV4gAsD9JJTJMMQ" title="A Complete Guide to Making HTTP Requests in Node.js" target="_blank">A Complete Guide to Making HTTP Requests in Node.js</a></li>
+</ul></li>
+<li><p><strong>Working with APIs</strong>:</p>
+
+<ul>
+<li>Understanding the basics of RESTful APIs and how to interact with them.</li>
+<li>Parsing JSON data returned by APIs.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/KyGS_uB68mLaP5irrH8JVA" title="Working with APIs in JavaScript" target="_blank">Working with APIs in JavaScript</a></li>
+</ul></li>
+<li><p><strong>Asynchronous Programming</strong>:</p>
+
+<ul>
+<li>Managing asynchronous operations with callbacks, promises, and async/await syntax.</li>
+<li>Handling API response data asynchronously.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/tdKMGJrRstCkXSReNfRFpQ" title="Asynchronous Programming in JavaScript" target="_blank">Asynchronous Programming in JavaScript</a></li>
+</ul></li>
+<li><p><strong>Command Line Arguments in Node.js</strong>:</p>
+
+<ul>
+<li>Using the <code>process.argv</code> array to access command-line arguments passed to a Node.js script.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/oWBOWJZLF_D9GfOydPz6Kg" title="How to Parse Command Line Arguments in Node.js" target="_blank">How to Parse Command Line Arguments in Node.js</a></li>
+</ul></li>
+<li><p><strong>Array Manipulation and Iteration</strong>:</p>
+
+<ul>
+<li>Iterating over arrays and manipulating data structures to format and display character names.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/8zdG036OYYvVco_AZTExoA" title="JavaScript Array Methods" target="_blank">JavaScript Array Methods</a></li>
+</ul></li>
+</ol>
+
+<p>By familiarizing yourself with these concepts and resources, you will be able to efficiently retrieve, process, and display Star Wars characters from the specified movie using the Star Wars API, demonstrating your ability to work with external APIs and manage asynchronous code in JavaScript.</p>
+
+
 <br>
 
 ## Additional Resources
