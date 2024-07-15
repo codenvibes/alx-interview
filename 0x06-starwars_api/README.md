@@ -48,7 +48,7 @@
 
 <ul>
 <li>Iterating over arrays and manipulating data structures to format and display character names.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/8zdG036OYYvVco_AZTExoA" title="JavaScript Array Methods" target="_blank">JavaScript Array Methods</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" title="JavaScript Array Methods" target="_blank">JavaScript Array Methods</a></li>
 </ul></li>
 </ol>
 
