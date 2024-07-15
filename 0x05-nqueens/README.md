@@ -54,7 +54,7 @@ This project not only tests programming and problem-solving skills but also offe
 
 ## Additional Resources
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/aQ3uJmGVeZa-R6B1jYTjXg" target="_blank" title="Mock Interview">Mock Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=GneS80iYa7I" target="_blank" title="Mock Interview">Mock Interview</a></li>
 </ul>
 
 
