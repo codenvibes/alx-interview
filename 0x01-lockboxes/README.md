@@ -44,7 +44,7 @@ For this project, you will need a solid understanding of several key concepts in
 <li><p><strong>Set Operations</strong>:</p>
 <ul>
 <li>Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/zkmtaPqAbKyxx41kRw7ulA" target="_blank" title="Python Sets (Python Official Documentation)">Python Sets (Python Official Documentation)</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html#sets" target="_blank" title="Python Sets (Python Official Documentation)">Python Sets (Python Official Documentation)</a></li>
 </ul></li>
 </ol>
 
