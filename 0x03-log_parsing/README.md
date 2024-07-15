@@ -24,7 +24,7 @@ Here’s a list of concepts and resources that you might find useful:</p>
 
 <ul>
 <li>Understand how to read from <code>sys.stdin</code> line by line.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/f7U2MDsBT_rd9AfUUaqVnQ" title="Python Input and Output" target="_blank">Python Input and Output</a></li>
+<li><a href="https://docs.python.org/3/tutorial/inputoutput.html" title="Python Input and Output" target="_blank">Python Input and Output</a></li>
 </ul></li>
 <li><p><strong>Signal Handling in Python</strong>:</p>
 
