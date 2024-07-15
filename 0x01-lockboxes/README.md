@@ -34,7 +34,7 @@ For this project, you will need a solid understanding of several key concepts in
 <li><p><strong>Recursion</strong>:</p>
 <ul>
 <li>Some solutions might require a recursive approach to traverse through the boxes and keys.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/zpEuvv0l9EHohIx-HwiAAA" target="_blank" title="Recursion in Python (Real Python)">Recursion in Python (Real Python)</a></li>
+<li><a href="https://realpython.com/python-recursion/" target="_blank" title="Recursion in Python (Real Python)">Recursion in Python (Real Python)</a></li>
 </ul></li>
 <li><p><strong>Queue and Stack</strong>:</p>
 <ul>
