@@ -65,7 +65,7 @@ Here’s a list of concepts and resources that you might find useful:</p>
 
 ## Additional Resources
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/VlOaXKkbecRYdnTLaLU1lg" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=5dRTK-_Bzd0" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
 </ul>
 
 
