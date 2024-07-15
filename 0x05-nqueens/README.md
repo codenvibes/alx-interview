@@ -29,13 +29,13 @@ To successfully complete this project, you will need to understand several key c
 
 <ul>
 <li>Using recursive functions to implement backtracking algorithms.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/X1vaNXgy_pPyvKfOJm90XQ" title="Recursion in Python" target="_blank">Recursion in Python</a></li>
+<li><a href="https://realpython.com/python-thinking-recursively/" title="Recursion in Python" target="_blank">Recursion in Python</a></li>
 </ul></li>
 <li><p><strong>List Manipulations in Python</strong>:</p>
 
 <ul>
 <li>Creating and manipulating lists, especially to store the positions of queens on the board.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/P3KbYxmdtSeoJvVfr9Iv0w" title="Python Lists" target="_blank">Python Lists</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html" title="Python Lists" target="_blank">Python Lists</a></li>
 </ul></li>
 <li><p><strong>Python Command Line Arguments</strong>:</p>
 
