@@ -41,7 +41,7 @@ To successfully complete this project, you will need to understand several key c
 
 <ul>
 <li>Handling command-line arguments with the <code>sys</code> module.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/2IF4V6xsY_Nq-xcGDK3Bhw" title="Command Line Arguments in Python" target="_blank">Command Line Arguments in Python</a></li>
+<li><a href="https://docs.python.org/3.3/library/sys.html#sys.argv" title="Command Line Arguments in Python" target="_blank">Command Line Arguments in Python</a></li>
 </ul></li>
 </ol>
 
