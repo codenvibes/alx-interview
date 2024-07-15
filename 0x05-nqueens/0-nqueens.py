@@ -13,11 +13,18 @@ Arguments:
   N - The size of the chessboard (must be a number greater than or equal to4)
 """
 
-import sys
-
 
 def is_valid_position(board, row, col):
-    """check for validity of the queens position
+    """
+    Check if a queen can be placed at board[row][col] without being attacked.
+
+    Args:
+        board (list): The current state of the chessboard.
+        row (int): The row index.
+        col (int): The column index.
+
+    Returns:
+        bool: True if the position is valid, False otherwise.
     """
     b_size = len(board)
     if sum(board[row]) or sum([board[i][col] for i in range(b_size)]) != 0:
@@ -32,8 +39,16 @@ def is_valid_position(board, row, col):
     return True
 
 
-def put_next_queen(board, row):
-    """Makes sure a queen is placed at a valid position
+def place_next_queen(board, row):
+    """
+    Attempt to place a queen on the chessboard in the given row.
+
+    Args:
+        board (list): The current state of the chessboard.
+        row (int): The row index where the queen is to be placed.
+
+    Returns:
+        bool: True if a queen was placed, False otherwise.
     """
     st, end = 0, len(board)
     if sum(board[row]) == 1:
@@ -47,16 +62,21 @@ def put_next_queen(board, row):
     return False
 
 
-def find_nqueens_solution(board, solutions=[]):
-    """Solves the nqueens problem
+def solve_nqueens(board, solutions=[]):
+    """
+    Solve the N-Queens problem by placing queens on the board.
 
     Args:
-        n (int): size of board
+        board (list): The current state of the chessboard.
+        solutions (list): A list to store the solutions found.
+
+    Returns:
+        None
     """
     n = len(board)
     row = 0
     while row < n:
-        if put_next_queen(board, row):
+        if place_next_queen(board, row):
             row += 1
         else:
             if row - 1 < 0:
@@ -74,15 +94,22 @@ def find_nqueens_solution(board, solutions=[]):
     if idx > -1:
         board = [[0 for _ in range(n)] for row in range(n)]
         board[0][idx] = 1
-        find_nqueens_solution(board, solutions)
+        solve_nqueens(board, solutions)
 
 
 def find_solutions(n):
-    """Find each solution and prints them
+    """
+    Find and print all solutions to the N-Queens problem for a board of size n.
+
+    Args:
+        n (int): The size of the chessboard.
+
+    Returns:
+        None
     """
     board = [[0 for col in range(n)] for row in range(n)]
     solutions = []
-    find_nqueens_solution(board, solutions)
+    solve_nqueens(board, solutions)
     for row in solutions:
         print(row)
 
