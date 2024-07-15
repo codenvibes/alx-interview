@@ -85,7 +85,7 @@ This project not only tests programming and problem-solving skills but also offe
 File: [0-nqueens.py]()
 </summary>
 
-<p><img src="./Project_ 0x05. N Queens _ Nairobi Intranet_files/Judit-photo1_602x433.jpg"/><br/>
+<p><img src="https://github.com/codenvibes/alx-interview/blob/master/0x05-nqueens/images/Judit-photo1_602x433.jpg"/><br/>
 <small>Chess grandmaster <a href="https://intranet.alxswe.com/rltoken/fZ1ecpPEmVL9nvkBn8WQGg" target="_blank" title="Judit Polgár">Judit Polgár</a>, the strongest female chess player of all time</small><br/>
 <br/></p>
 
