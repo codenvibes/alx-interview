@@ -19,7 +19,7 @@ For this project, you will need a solid understanding of several key concepts in
 <li><p><strong>Lists and List Manipulation</strong>:</p>
 <ul>
 <li>Understanding how to work with lists, including accessing elements, iterating over lists, and modifying lists dynamically.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/TtGNy9p1p1d0O5G1rdY1Aw" target="_blank" title="Python Lists (Python Official Documentation)">Python Lists (Python Official Documentation)</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html" target="_blank" title="Python Lists (Python Official Documentation)">Python Lists (Python Official Documentation)</a></li>
 </ul></li>
 <li><p><strong>Graph Theory Basics</strong>:</p>
 <ul>
