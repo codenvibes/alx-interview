@@ -67,7 +67,7 @@
 <li><p><strong>YouTube Tutorials</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/H7SwlI_XYDpwYonNYKXQfg" title="Python 2D arrays and lists" target="_blank">Python 2D arrays and lists</a></li>
+<li><a href="https://www.youtube.com/watch?v=aNzepGawwCI" title="Python 2D arrays and lists" target="_blank">Python 2D arrays and lists</a></li>
 </ul></li>
 </ul>
 
