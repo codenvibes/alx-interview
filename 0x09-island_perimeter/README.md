@@ -62,7 +62,7 @@
 <li><p><strong>TutorialsPoint</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/TZ8UtQaRxN5cFf8c1TB-rw" title="Python Lists" target="_blank">Python Lists</a>: Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.</li>
+<li><a href="https://www.tutorialspoint.com/python/python_lists.htm" title="Python Lists" target="_blank">Python Lists</a>: Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.</li>
 </ul></li>
 <li><p><strong>YouTube Tutorials</strong>:</p>
 
