@@ -57,7 +57,7 @@
 <li><p><strong>GeeksforGeeks Articles</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/IYcYmeVlCfF-F7Szn1fzfQ" title="Python Multi-dimensional Arrays" target="_blank">Python Multi-dimensional Arrays</a>: A guide to working with 2D arrays in Python effectively.</li>
+<li><a href="https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-way/" title="Python Multi-dimensional Arrays" target="_blank">Python Multi-dimensional Arrays</a>: A guide to working with 2D arrays in Python effectively.</li>
 </ul></li>
 <li><p><strong>TutorialsPoint</strong>:</p>
 
