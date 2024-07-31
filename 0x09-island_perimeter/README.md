@@ -9,6 +9,68 @@
 
 <!--==================================================-->
 <br>
+<h3>Concepts Needed:</h3>
+
+<ol>
+<li><p><strong>2D Arrays (Matrices)</strong>:</p>
+
+<ul>
+<li>Accessing and iterating over elements in a 2D array.</li>
+<li>Understanding how to navigate through adjacent cells (horizontally and vertically).</li>
+</ul></li>
+<li><p><strong>Conditional Logic</strong>:</p>
+
+<ul>
+<li>Applying conditions to determine whether a cell contributes to the perimeter of the island.</li>
+</ul></li>
+<li><p><strong>Counting Techniques</strong>:</p>
+
+<ul>
+<li>Developing a method to count the edges that contribute to the island’s perimeter.</li>
+</ul></li>
+<li><p><strong>Problem-Solving Strategies</strong>:</p>
+
+<ul>
+<li>Breaking down the problem into smaller tasks, such as identifying land cells and calculating their contribution to the perimeter.</li>
+</ul></li>
+<li><p><strong>Python Programming</strong>:</p>
+
+<ul>
+<li>Nested loops for iterating over grid cells.</li>
+<li>Conditional statements to check the status of adjacent cells.</li>
+</ul></li>
+</ol>
+
+<br>
+<h3>Resources:</h3>
+
+<ul>
+<li><p><strong>Python Official Documentation</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/8SPalOgoGDWQChVbct0p1g" title="Nested Lists" target="_blank">Nested Lists</a>: Understanding how to work with lists within lists in Python.</li>
+</ul></li>
+<li><p><strong>GeeksforGeeks Articles</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/IYcYmeVlCfF-F7Szn1fzfQ" title="Python Multi-dimensional Arrays" target="_blank">Python Multi-dimensional Arrays</a>: A guide to working with 2D arrays in Python effectively.</li>
+</ul></li>
+<li><p><strong>TutorialsPoint</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/TZ8UtQaRxN5cFf8c1TB-rw" title="Python Lists" target="_blank">Python Lists</a>: Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.</li>
+</ul></li>
+<li><p><strong>YouTube Tutorials</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/H7SwlI_XYDpwYonNYKXQfg" title="Python 2D arrays and lists" target="_blank">Python 2D arrays and lists</a></li>
+</ul></li>
+</ul>
+
+<p>By understanding these concepts and utilizing the provided resources, you will be equipped to approach the problem methodically. You’ll need to iterate over the grid, apply logical operations to identify the perimeter of the island, and account for the specific conditions described in the task. This project not only tests your algorithmic thinking but also reinforces your ability to manipulate data structures and apply logical reasoning to solve problems.</p>
+
+
+<br>
 
 ## Additional Resources
 <ul>
