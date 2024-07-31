@@ -52,7 +52,7 @@
 <li><p><strong>Python Official Documentation</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/8SPalOgoGDWQChVbct0p1g" title="Nested Lists" target="_blank">Nested Lists</a>: Understanding how to work with lists within lists in Python.</li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions" title="Nested Lists" target="_blank">Nested Lists</a>: Understanding how to work with lists within lists in Python.</li>
 </ul></li>
 <li><p><strong>GeeksforGeeks Articles</strong>:</p>
 
