@@ -57,13 +57,13 @@
 <li><p><strong>Python Official Documentation</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/oVyaCk8erLwLPj96P-qlCw" title="More Control Flow Tools (for loops, if statements)" target="_blank">More Control Flow Tools (for loops, if statements)</a></li>
+<li><a href="https://docs.python.org/3/tutorial/controlflow.html" title="More Control Flow Tools (for loops, if statements)" target="_blank">More Control Flow Tools (for loops, if statements)</a></li>
 </ul></li>
 <li><p><strong>GeeksforGeeks Articles</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/iQPaO5JhI-BtuZdm6HIVCQ" title="Coin Change | DP-7" target="_blank">Coin Change | DP-7</a></li>
-<li><a href="https://intranet.alxswe.com/rltoken/FsBN0oeRp0FpyU8sMd4UiA" title="Greedy Algorithm to find Minimum number of Coins" target="_blank">Greedy Algorithm to find Minimum number of Coins</a></li>
+<li><a href="https://www.geeksforgeeks.org/coin-change-dp-7/" title="Coin Change | DP-7" target="_blank">Coin Change | DP-7</a></li>
+<li><a href="https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/" title="Greedy Algorithm to find Minimum number of Coins" target="_blank">Greedy Algorithm to find Minimum number of Coins</a></li>
 </ul></li>
 <li><p><strong>YouTube Tutorials</strong>:</p>
 
