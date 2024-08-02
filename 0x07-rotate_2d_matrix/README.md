@@ -59,13 +59,13 @@
 <li><p><strong>GeeksforGeeks Articles</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/9T8w4mtiIIRDtfLSmEmrLA" title="Inplace rotate square matrix by 90 degrees" target="_blank">Inplace rotate square matrix by 90 degrees</a></li>
-<li><a href="https://intranet.alxswe.com/rltoken/JdIFvtej2hMW-Wd9ABHMOA" title="Transpose a matrix in Single line in Python" target="_blank">Transpose a matrix in Single line in Python</a></li>
+<li><a href="https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/" title="Inplace rotate square matrix by 90 degrees" target="_blank">Inplace rotate square matrix by 90 degrees</a></li>
+<li><a href="https://www.geeksforgeeks.org/transpose-matrix-single-line-python/" title="Transpose a matrix in Single line in Python" target="_blank">Transpose a matrix in Single line in Python</a></li>
 </ul></li>
 <li><p><strong>TutorialsPoint</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/rFmzUTpaLGqDXjGA6D9eYw" title="Python Lists" target="_blank">Python Lists</a> for basics of list manipulation in Python.</li>
+<li><a href="https://www.tutorialspoint.com/python/python_lists.htm" title="Python Lists" target="_blank">Python Lists</a> for basics of list manipulation in Python.</li>
 </ul></li>
 </ul>
 
@@ -76,7 +76,7 @@
 
 ## Additional Resources
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/4GPWA9C2AJHtpdGxuIHEPA" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=yM9Xbi-MigE" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
 </ul>
 
 
