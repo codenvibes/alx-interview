@@ -68,7 +68,7 @@
 <li><p><strong>YouTube Tutorials</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/qFEdwwtAVyJr9NLHDZDsUQ" title="Dynamic Programming - Coin Change Problem" target="_blank">Dynamic Programming - Coin Change Problem</a> for a visual and step-by-step explanation of the dynamic programming approach.</li>
+<li><a href="https://www.youtube.com/watch?v=jgiZlGzXMBwQ" title="Dynamic Programming - Coin Change Problem" target="_blank">Dynamic Programming - Coin Change Problem</a> for a visual and step-by-step explanation of the dynamic programming approach.</li>
 </ul></li>
 </ul>
 
