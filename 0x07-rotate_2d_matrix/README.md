@@ -53,7 +53,7 @@
 <li><p><strong>Python Official Documentation</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/eZc_ELGxUgkuc4kkE_fd7Q" title="Data Structures (list comprehensions, nested list comprehension)" target="_blank">Data Structures (list comprehensions, nested list comprehension)</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html" title="Data Structures (list comprehensions, nested list comprehension)" target="_blank">Data Structures (list comprehensions, nested list comprehension)</a></li>
 <li><a href="https://intranet.alxswe.com/rltoken/0ORj179giGhGe8jpcxBkXg" title="More on Lists" target="_blank">More on Lists</a></li>
 </ul></li>
 <li><p><strong>GeeksforGeeks Articles</strong>:</p>
