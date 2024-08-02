@@ -80,7 +80,7 @@
 
 ## Additional Resources
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/ktLaKIVRkq_-byFO-_-aGg" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=9BSSIsJ-fWg" target="_blank" title="Mock Technical Interview">Mock Technical Interview</a></li>
 </ul>
 
 
