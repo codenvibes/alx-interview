@@ -68,7 +68,7 @@
 <li><p><strong>Python Official Documentation</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/JTEGXnSDYDp8yblD9y86eg" title="Python Lists" target="_blank">Python Lists</a>: Managing lists in Python, useful for tracking the game state.</li>
+<li><a href="https://docs.python.org/3/tutorial/introduction.html#lists" title="Python Lists" target="_blank">Python Lists</a>: Managing lists in Python, useful for tracking the game state.</li>
 </ul></li>
 </ul>
 
