@@ -45,6 +45,7 @@
 </ul></li>
 </ol>
 
+<br>
 <h3>Resources:</h3>
 
 <ul>
