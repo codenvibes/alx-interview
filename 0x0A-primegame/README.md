@@ -58,7 +58,7 @@
 <li><p><strong>Game Theory Basics</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/lH4z--LnsuXYKh23Ji9Elw" title="Game Theory Introduction" target="_blank">Game Theory Introduction</a>: A simple explanation of game theory and strategic decision-making.</li>
+<li><a href="https://www.investopedia.com/terms/g/gametheory.asp" title="Game Theory Introduction" target="_blank">Game Theory Introduction</a>: A simple explanation of game theory and strategic decision-making.</li>
 </ul></li>
 <li><p><strong>Dynamic Programming</strong>:</p>
 
