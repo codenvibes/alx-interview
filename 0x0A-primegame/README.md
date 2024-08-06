@@ -63,7 +63,7 @@
 <li><p><strong>Dynamic Programming</strong>:</p>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/W6T0RxWaFG3GisPxLLNYkQ" title="What Is Dynamic Programming With Python Examples" target="_blank">What Is Dynamic Programming With Python Examples</a>: An introduction to dynamic programming with Python examples.</li>
+<li><a href="https://skerritt.blog/dynamic-programming/" title="What Is Dynamic Programming With Python Examples" target="_blank">What Is Dynamic Programming With Python Examples</a>: An introduction to dynamic programming with Python examples.</li>
 </ul></li>
 <li><p><strong>Python Official Documentation</strong>:</p>
 
