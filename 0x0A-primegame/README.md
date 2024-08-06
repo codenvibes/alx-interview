@@ -8,6 +8,70 @@
 
 
 <!--==================================================-->
+<p>For this project, you will need to leverage your understanding of prime numbers, game theory, and algorithm optimization to solve a competitive game scenario. The challenge involves determining the winner of a game based on the strategic removal of prime numbers and their multiples from a set of consecutive integers.</p>
+
+<h3>Concepts Needed:</h3>
+
+<ol>
+<li><p><strong>Prime Numbers</strong>:</p>
+
+<ul>
+<li>Understanding what prime numbers are.</li>
+<li>Efficient algorithms for identifying prime numbers within a range.</li>
+</ul></li>
+<li><p><strong>Sieve of Eratosthenes</strong>:</p>
+
+<ul>
+<li>An efficient algorithm for finding all prime numbers up to any given limit, which can be particularly useful for this task.</li>
+</ul></li>
+<li><p><strong>Game Theory</strong>:</p>
+
+<ul>
+<li>Basic principles of competitive games where players take turns and the concept of optimal play.</li>
+<li>Understanding win conditions and strategies that lead to a win or loss.</li>
+</ul></li>
+<li><p><strong>Dynamic Programming/Memoization</strong>:</p>
+
+<ul>
+<li>Using previous results to make future calculations faster, potentially necessary for optimizing the solution for multiple rounds of the game.</li>
+</ul></li>
+<li><p><strong>Python Programming</strong>:</p>
+
+<ul>
+<li>Loops and conditional statements for implementing game logic and algorithms.</li>
+<li>Arrays and lists for storing the integers and tracking removed numbers.</li>
+</ul></li>
+</ol>
+
+<h3>Resources:</h3>
+
+<ul>
+<li><p><strong>Prime Numbers and Sieve of Eratosthenes</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/IUKEfGVroNza8u37x0lEzw" title="Khan Academy: Prime Numbers" target="_blank">Khan Academy: Prime Numbers</a>: Introduction to prime numbers.</li>
+<li><a href="https://intranet.alxswe.com/rltoken/sVjdrNQEaErO_qRYsVMTEg" title="Sieve of Eratosthenes in Python" target="_blank">Sieve of Eratosthenes in Python</a>: A step-by-step guide to implementing the sieve algorithm in Python.</li>
+</ul></li>
+<li><p><strong>Game Theory Basics</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/lH4z--LnsuXYKh23Ji9Elw" title="Game Theory Introduction" target="_blank">Game Theory Introduction</a>: A simple explanation of game theory and strategic decision-making.</li>
+</ul></li>
+<li><p><strong>Dynamic Programming</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/W6T0RxWaFG3GisPxLLNYkQ" title="What Is Dynamic Programming With Python Examples" target="_blank">What Is Dynamic Programming With Python Examples</a>: An introduction to dynamic programming with Python examples.</li>
+</ul></li>
+<li><p><strong>Python Official Documentation</strong>:</p>
+
+<ul>
+<li><a href="https://intranet.alxswe.com/rltoken/JTEGXnSDYDp8yblD9y86eg" title="Python Lists" target="_blank">Python Lists</a>: Managing lists in Python, useful for tracking the game state.</li>
+</ul></li>
+</ul>
+
+<p>By grasping these concepts and making use of the recommended resources, you will be well-equipped to approach the problem with a solid understanding of both the mathematical and programming challenges involved. The key to success in this project lies in applying efficient algorithms to manage the game’s state and making optimal decisions based on the game’s rules.</p>
+
+
 <br>
 
 ## Additional Resources
