@@ -53,7 +53,7 @@
 
 <ul>
 <li><a href="https://www.khanacademy.org/math/cc-fourth-grade-math/imp-factors-multiples-and-patterns/imp-prime-and-composite-numbers/v/prime-numbers" title="Khan Academy: Prime Numbers" target="_blank">Khan Academy: Prime Numbers</a>: Introduction to prime numbers.</li>
-<li><a href="https://intranet.alxswe.com/rltoken/sVjdrNQEaErO_qRYsVMTEg" title="Sieve of Eratosthenes in Python" target="_blank">Sieve of Eratosthenes in Python</a>: A step-by-step guide to implementing the sieve algorithm in Python.</li>
+<li><a href="https://www.geeksforgeeks.org/sieve-of-eratosthenes/" title="Sieve of Eratosthenes in Python" target="_blank">Sieve of Eratosthenes in Python</a>: A step-by-step guide to implementing the sieve algorithm in Python.</li>
 </ul></li>
 <li><p><strong>Game Theory Basics</strong>:</p>
 
